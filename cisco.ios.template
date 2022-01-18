@@ -1,0 +1,109 @@
+Jan 9 20:37:16 HHHHHHHH _EVENT_ID_: Jan 9 20:37:15.694 CET: %LINEPROTO-5-UPDOWN: Line protocol on Interface _LOGICALINTERFACE_, changed state to down
+Jan 9 20:37:16 HHHHHHHH _EVENT_ID_: Jan 9 20:37:15.694 CET: %LINEPROTO-5-UPDOWN: Line protocol on Interface _LOGICALINTERFACE_, changed state to up
+Jan 9 20:37:16 HHHHHHHH _EVENT_ID_: Jan 9 20:37:15.694 CET: %LINEPROTO-5-UPDOWN: Line protocol on Interface _INTERFACE_, changed state to up
+Jan 9 20:37:16 HHHHHHHH _EVENT_ID_: Jan 9 20:37:15.694 CET: %LINEPROTO-5-UPDOWN: Line protocol on Interface _INTERFACE_, changed state to down
+Jan 9 20:37:16 HHHHHHHH _EVENT_ID_: Jan 9 20:37:15.694 CET: %LINK-3-UPDOWN: Interface _INTERFACE_, changed state to up
+Jan 9 20:37:16 HHHHHHHH _EVENT_ID_: Jan 9 20:37:15.694 CET: %LINK-3-UPDOWN: Interface _INTERFACE_, changed state to down
+Jan 9 20:36:59 HHHHHHHH _EVENT_ID_: Jan 9 20:36:58.637 CET: %DUAL-5-NBRCHANGE: IP-EIGRP(0) 30: Neighbor XXX.XXX.XXX.XXX (Tunnel0) is up: new adjacency
+Jan 9 20:36:58 HHHHHHHH _EVENT_ID_: Jan 9 20:36:57.905 CET: %SNMP-3-AUTHFAIL: Authentication failure for SNMP req from host XXX.XXX.XXX.XXX
+Jan 9 20:28:28 HHHHHHHH _EVENT_ID_: Jan 9 20:28:27.876 CET: %ENVIRONMENT-2-FAN_FAULT: System Fault: FAN FAULT is detected.
+Jan 9 20:33:51 HHHHHHHH _EVENT_ID_: Jan 9 20:33:50.379 CET: %HARDWARE-1-TCAM_ERROR: Found error in HFTM TCAM Space and not able to recover the error
+Jan 9 20:36:01 HHHHHHHH _EVENT_ID_: Jan 9 20:36:00.212 CET: %SFF8472-5-THRESHOLD_VIOLATION: _INTERFACESHORT_: Rx power low warning; Operating value: -22.7 dBm, Threshold value: -19.0 dBm.
+Jan 9 20:37:01 HHHHHHHH _EVENT_ID_: Jan 9 20:36:00.212 CET: %SFF8472-5-THRESHOLD_VIOLATION: _INTERFACESHORT_: Rx power low warning; Operating value: -29.7 dBm, Threshold value: -29.0 dBm.
+Jan 9 20:38:01 HHHHHHHH _EVENT_ID_: Jan 9 20:36:00.212 CET: %SFF8472-5-THRESHOLD_VIOLATION: _INTERFACESHORT_: Rx power low warning; Operating value: -40.7 dBm, Threshold value: -39.0 dBm.
+Jan 9 20:38:01 HHHHHHHH _EVENT_ID_: Jan 9 20:36:00.212 CET: %SFF8472-5-THRESHOLD_VIOLATION: _INTERFACESHORT_: Temperature low alarm; Operating value: -101.6 C, Threshold value:  -10.0 C.
+Jan 9 20:37:19 HHHHHHHH _EVENT_ID_: Jan 9 20:37:18.365 CET: %FAN-3-FAN_FAILED: Fan 4 had a rotation error reported.
+Jan 9 20:37:18 HHHHHHHH _EVENT_ID_: Jan 9 20:37:17.797 CET: %CDP-4-DUPLEX_MISMATCH: duplex mismatch discovered on _INTERFACE_ (not half duplex), with SEP001AD460E097 Port 1 (half duplex).
+Jan 9 20:37:17 HHHHHHHH _EVENT_ID_: Jan 9 20:37:17.353 CET: %ILPOWER-5-IEEE_DISCONNECT: Interface _INTERFACESHORT_: PD removed
+Jan 9 20:35:36 HHHHHHHH _EVENT_ID_: Jan 9 20:35:35.241 CET: %PIM-6-INVALID_RP_JOIN: VRF nat-public: Received (*, 224.0.1.40) Join from XXX.XXX.XXX.XXX for invalid RP XXX.XXX.XXX.XXX
+Jan 9 20:35:13 HHHHHHHH _EVENT_ID_: Jan 9 20:35:13.895 CET: %SPANTREE-2-BLOCK_BPDUGUARD: Received BPDU on port _INTERFACE_ with BPDU Guard enabled. Disabling port.
+Jan 9 20:35:13 HHHHHHHH _EVENT_ID_: Jan 9 20:35:16.895 CET: %SPANTREE-2-BLOCK_BPDUGUARD: Received BPDU on port _INTERFACE_ with BPDU Guard enabled. Disabling port.
+Jan 9 20:27:54 HHHHHHHH _EVENT_ID_: Jan 9 20:27:53.533 CET: %SEC-6-IPACCESSLOGP: list 110 denied tcp XXX.XXX.XXX.XXX(_PORT_NUMBER_) -> 0.0.0.0(22), 1 packet
+Jan 9 20:27:54 HHHHHHHH _EVENT_ID_: Jan 9 20:27:53.533 CET: %SEC-6-IPACCESSLOGP: list MGMT permitted tcp XXX.XXX.XXX.XXX(_PORT_NUMBER_) -> 0.0.0.0(23), 1 packet
+Jan 9 19:51:53 HHHHHHHH _EVENT_ID_: Jan 9 19:51:52.250 CET: %NTP-6-PEERREACH: Peer XXX.XXX.XXX.XXX is reachable
+Jan 9 20:48:31 HHHHHHHH _EVENT_ID_: Jan 9 20:48:30.132 CET: %CRYPTO-6-IKMP_NOT_ENCRYPTED: IKE packet from XXX.XXX.XXX.XXX was not encrypted and it should've been.
+Jan 9 20:48:14 HHHHHHHH _EVENT_ID_: Jan 9 20:48:13.475 CET: %SYS-2-MALLOCFAIL: Memory allocation of 32768 bytes failed from 0x8030F4A8, alignment 0
+Jan 9 20:50:00 HHHHHHHH _EVENT_ID_: Jan 9 20:49:59.412 CET: %DSLSAR-1-DOWNGRADEDBW: PCR and SCR for VCD 1 (0/33) has been reduced to 1344k 1344k due to insufficient upstream bandwidth
+Jan 9 15:39:21 HHHHHHHH _EVENT_ID_: Jan 9 15:39:20.076 CET: %SYS-5-CONFIG_I: Configured from console by UUUUUUUU on vty0 (XXX.XXX.XXX.XXX)
+Jan 9 14:39:50 HHHHHHHH _EVENT_ID_: Jan 9 14:39:49.887 CET: %PARSER-5-CFGLOG_LOGGEDCMD: User:UUUUUUUU  logged command:interface _INTERFACE_
+Jan 9 14:25:02 HHHHHHHH _EVENT_ID_: Jan 9 14:25:01.625 CET: %PARSER-5-CFGLOG_LOGGEDCMD: User:UUUUUUUU  logged command:switchport access vlan 14
+Jan 9 20:55:27 HHHHHHHH _EVENT_ID_: Jan 9 20:55:26.295 CET: %FAN-3-FAN_OK: Fan 4 had earlier reported a rotation error. It is ok now
+Jan 9 15:10:31 HHHHHHHH _EVENT_ID_: Jan 9 15:10:30.812 CET: %SW_MATM-4-MACFLAP_NOTIF: Host 449b.0152.f79a in _LOGICALINTERFACE_ is flapping between port _INTERFACESHORT_ and port _INTERFACESHORT_
+Jan 9 15:10:31 HHHHHHHH _EVENT_ID_: Jan 9 15:10:30.812 CET: %SW_MATM-4-MACFLAP_NOTIF: Host 9990.0aba.caab in _LOGICALINTERFACE_ is flapping between port _INTERFACESHORT_ and port _INTERFACESHORT_
+Feb 3 10:33:36 HHHHHHHH _EVENT_ID_: Feb  3 10:33:34.899 CET: %MAB-5-FAIL: Authentication failed for client (d267.e554.2b97) on Interface _INTERFACESHORT_ AuditSessionID AC18DC1500006053075984A0
+Feb 3 10:33:36 HHHHHHHH _EVENT_ID_: Feb  3 10:33:34.899 CET: %AUTHMGR-5-START: Starting 'dot1x' for client (0083.643b.0810) on Interface _INTERFACESHORT_ AuditSessionID 00000000000000C182FB5E4A
+Feb 3 10:33:36 HHHHHHHH _EVENT_ID_: Feb  3 10:33:34.899 CET: %AUTHMGR-5-SUCCESS: Authorization succeeded for client (92b1.1c88.0d3b) on Interface _INTERFACESHORT_ AuditSessionID 00000000000003B0F581B1E9
+Aug 19 11:57:01 HHHHHHHH _EVENT_ID_: Aug 19 11:57:00.737 CEST: %SEC_LOGIN-5-LOGIN_SUCCESS: Login Success [user: UUUUUUUU] [Source: XXX.XXX.XXX.XXX] [localport: 22] at 11:57:00 CEST Tue Aug 19 2014
+Aug 19 11:51:46 HHHHHHHH _EVENT_ID_: Aug 19 11:51:45.714 CEST: %LDP-5-NBRCHG: LDP Neighbor XXX.XXX.XXX.XXX:0 (1) is UP
+Aug 19 11:51:46 HHHHHHHH _EVENT_ID_: Aug 19 11:51:45.666 CEST: %PIM-5-NBRCHG: neighbor XXX.XXX.XXX.XXX UP on interface _INTERFACE_
+Aug 19 11:50:36 HHHHHHHH _EVENT_ID_: Aug 19 11:50:35.221 CEST: %LDP-5-NBRCHG: LDP Neighbor XXX.XXX.XXX.XXX:0 (1) is DOWN (Interface not operational)
+Aug 19 15:50:36 HHHHHHHH _EVENT_ID_: Feb  3 10:33:34.899 CET: %SEC-6-IPACCESSLOGP: list TEK-OUT denied udp XXX.XXX.XXX.XXX(_PORT_NUMBER_) -> XXX.XXX.XXX.XXX(_PORT_NUMBER_), 1 packet
+Aug 19 17:51:36 HHHHHHHH _EVENT_ID_: Feb  3 10:33:34.899 CET: %SEC-6-IPACCESSLOGP: list DenyRule denied tcp XXX.XXX.XXX.XXX(_PORT_NUMBER_) -> XXX.XXX.XXX.XXX(_PORT_NUMBER_), 1 packet
+Jan 9 14:25:01 HHHHHHHH _EVENT_ID_: Jan 9 14:25:01.625 CET: %PARSER-5-CFGLOG_LOGGEDCMD: User:UUUUUUUU  logged command:no interface _LOGICALINTERFACE_
+Jan 9 14:25:02 HHHHHHHH _EVENT_ID_: Jan 9 14:25:02.625 CET: %PARSER-5-CFGLOG_LOGGEDCMD: User:UUUUUUUU  logged command:no username admin
+Jan 9 14:25:03 HHHHHHHH _EVENT_ID_: Jan 9 14:25:03.625 CET: %PARSER-5-CFGLOG_LOGGEDCMD: User:UUUUUUUU  logged command:enable secret *****
+Jan 9 14:25:04 HHHHHHHH _EVENT_ID_: Jan 9 14:25:04.625 CET: %PM-4-ERR_DISABLE: link-flap error detected on _INTERFACESHORT_, putting _INTERFACESHORT_ in err-disable state
+Feb 3 11:53:02 HHHHHHHH _EVENT_ID_: Feb 3 11:53:02.125 CET: %SEC_LOGIN-4-LOGIN_FAILED: Login failed [user: UUUUUUUU] [Source: XXX.XXX.XXX.XXX] [localport: 22] [Reason: Login Authentication Failed] at 11:53:02 CET Wed Feb 3 2016
+Feb 3 11:53:03 HHHHHHHH _EVENT_ID_: Feb 3 11:53:02.125 CET: %SEC_LOGIN-4-LOGIN_FAILED: Login failed [user: admin] [Source: XXX.XXX.XXX.XXX] [localport: 22] [Reason: Login Authentication Failed] at 11:53:02 CET Wed Feb 3 2016
+Feb 3 11:53:04 HHHHHHHH _EVENT_ID_: Feb 3 11:53:04.125 CET: %ETHPORT-2-IF_DOWN_ERROR_DISABLED: Interface _INTERFACE_ is down (Error disabled. Reason: Too many link flaps)
+Feb 3 11:53:05 HHHHHHHH _EVENT_ID_: Feb 3 11:53:05.125 CET: %ETHPORT-2-IF_DOWN_ERROR_DISABLED: Interface _INTERFACE_ is down (Error disabled. Reason:DCX-No ACK in 100 PDUs)
+Feb 3 11:53:06 HHHHHHHH _EVENT_ID_: Feb 3 11:53:06.125 CET: %ETHPORT-2-IF_DOWN_ERROR_DISABLED: Interface _INTERFACE_ is down (Error disabled. Reason:UDLD empty echo)
+Feb 3 11:53:07 HHHHHHHH _EVENT_ID_: Feb 3 11:53:07.125 CET: %INTERFACE_VLAN-5-IF_DOWN_ERROR_DISABLED: Interface _LOGICALINTERFACE_ is down. Reason 1
+Feb 3 11:53:08 HHHHHHHH _EVENT_ID_: Feb 3 11:53:08.125 CET: %PORT-2-IF_DOWN_ERROR_DISABLED: %$VSAN 1%$ Interface fc1/6 is down (Error disabled)
+Feb 3 11:53:09 HHHHHHHH _EVENT_ID_: Feb 3 11:53:09.125 CET: %PORT-2-IF_DOWN_ERROR_DISABLED: %$VSAN 1%$ Interface fc1/5 is down (Error disabled)
+Feb 3 11:53:10 HHHHHHHH _EVENT_ID_: Feb 3 11:53:10.125 CET: %VIM-5-IF_DOWN_ERROR_DISABLED: Interface Vethernet1 is down (Error disabled)
+Jan 16 07:54:52 HHHHHHHH _EVENT_ID_: Jan 16 07:54:52.248 CET: %STP-6-PORT_RANGE_STATE: new_state=forwarding interface=port-channel20 vlan=1562
+Jan 16 07:54:52 HHHHHHHH _EVENT_ID_: Jan 16 07:54:52.440 CET: %STP-6-PORT_RANGE_ROLE: new_role=designated interface=port-channel20 vlan=1562
+Jan 16 08:34:04 HHHHHHHH _EVENT_ID_: Jan 16 08:34:04.029 CET: %STP-6-PORT_RANGE_DELETED: Interface _INTERFACE_ removed from vlan=13-14,16,20,158,400,909,1320,2502,2812,2815,2858
+Jan 16 08:33:04 HHHHHHHH _EVENT_ID_: Jan 16 08:33:04.018 CET: %STP-6-PORT_RANGE_ADDED: Interface _INTERFACE_ added to vlan=13-14,16,20,158,400,909,1320,2502,2812,2815,2858 with cost 2000, priority 128, link-type P2p
+Jan 16 06:37:32 HHHHHHHH _EVENT_ID_: Jan 16 06:37:32.739 CET: %STP-2-DISPUTE_DETECTED: Dispute detected on port port-channel20 on VLAN2832.
+Jan 16 06:37:26 HHHHHHHH _EVENT_ID_: Jan 16 06:37:26.738 CET: %STP-2-DISPUTE_CLEARED: Dispute resolved for port port-channel20 on VLAN2832
+Jan 16 00:36:29 HHHHHHHH _EVENT_ID_: Jan 16 00:36:29.266 CET: %FWM-2-STM_LOOP_DETECT: Loops detected in the network for mac 0050.567d.fb8d among ports _INTERFACESHORT_ and _INTERFACESHORT_ vlan 21 - Disabling dynamic learn notifications for 180 seconds
+Jan 16 00:36:30 HHHHHHHH _EVENT_ID_: Jan 16 00:36:30.266 CET: %SPANTREE-5-EXTENDED_SYSID: Extended SysId enabled for type vlan
+Jan 16 00:36:31 HHHHHHHH _EVENT_ID_: Jan 16 00:36:31.266 CET: %SPANTREE-SP-2-LOOPGUARD_BLOCK: Loop guard blocking port Port-channel6 on VLAN1485.
+Jan 16 00:36:32 HHHHHHHH _EVENT_ID_: Jan 16 00:36:32.266 CET: %SPANTREE-SP-2-LOOPGUARD_UNBLOCK: Loop guard unblocking port Port-channel6 on VLAN1485.
+Jan 16 00:36:33 HHHHHHHH _EVENT_ID_: Jan 16 00:36:33.266 CET: %SPANTREE-6-PORT_STATE: Port _INTERFACESHORT_ instance 205 moving from forwarding to disabled (HHHHHHHH)
+Jan 16 00:36:34 HHHHHHHH _EVENT_ID_: Jan 16 00:36:34.266 CET: %SPANTREE-7-PORTDEL_SUCCESS: _INTERFACE_ deleted from Vlan 205 (HHHHHHHH)
+Jan 16 00:36:35 HHHHHHHH _EVENT_ID_: Jan 16 00:36:35.266 CET: %C4K_EBM-4-HOSTFLAPPING: Host 86:AA:C0:79:AA:6A in _LOGICALINTERFACE_ is flapping between port _INTERFACESHORT_ and port _INTERFACESHORT_
+Jan 16 00:36:36 HHHHHHHH _EVENT_ID_: Jan 16 00:36:36.266 CET: %FWM-6-MAC_MOVE_NOTIFICATION: Host 0050.5693.0416 in _LOGICALINTERFACE_ is flapping between port _INTERFACESHORT_ and port _INTERFACESHORT_
+Jan 16 00:36:37 HHHHHHHH _EVENT_ID_: Jan 16 00:36:37.266 CET: %L2FM-4-L2FM_MAC_MOVE: Mac 0050.5695.1ac8 in _LOGICALINTERFACE_ has moved from _INTERFACESHORT_ to _INTERFACESHORT_
+Jan 16 00:36:38 HHHHHHHH _EVENT_ID_: Jan 16 00:36:38.266 CET: %L2FM-4-L2FM_MAC_MOVE: Mac 000b.cdca.3931 has moved from _INTERFACESHORT_ to _INTERFACESHORT_
+Jan 16 00:36:39 HHHHHHHH _EVENT_ID_: Jan 16 00:36:39.266 CET: %L2FM-2-L2FM_CONTINUOUS_MAC_MOVE: Mac Address 000b.1546.7851 in Vlan52 is moving continuously
+Jan 16 00:36:40 HHHHHHHH _EVENT_ID_: Jan 16 00:36:40.266 CET: %MAC_MOVE-SP-4-NOTIF: Host 000b.ab18.9416 in _LOGICALINTERFACE_ is flapping between port _INTERFACESHORT_ and port _INTERFACESHORT_ by regular interval
+Jan 16 00:36:41 HHHHHHHH _EVENT_ID_: Jan 16 00:36:41.266 CET: %CDP-4-NATIVE_VLAN_MISMATCH: Native VLAN mismatch discovered on _INTERFACE_(4), with _INTERFACE_(1)
+Jan 16 00:36:42 HHHHHHHH _EVENT_ID_: Jan 16 00:36:42.266 CET: %CDP-4-NATIVE_VLAN_MISMATCH: Native VLAN mismatch discovered on _INTERFACE_ (512), with HHHHHHHH _INTERFACE_ (1).
+Jan 16 00:36:43 HHHHHHHH _EVENT_ID_: Jan 16 00:36:43.266 CET: %CDP-5-NEIGHBOR_ADDED: Device HHHHHHHH(JAxxxxxxxJB) discovered of type N77-C7710 with port _INTERFACE_ on incoming port _INTERFACE_ with ip addr XXX.XXX.XXX.XXX and mgmt ip XXX.XXX.XXX.XXX, 2a03:6f81:100:4::21,
+Jan 16 00:36:44 HHHHHHHH _EVENT_ID_: Jan 16 00:36:44.266 CET: %CDP-5-NEIGHBOR_ADDED: Device HHHHHHHH(QCIxxxxxxxXX) discovered of type VSA with port _INTERFACESHORT_ on incoming port _INTERFACE_ with ip addr XXX.XXX.XXX.XXX and mgmt ip <no MGMT IP Addr Received>
+Jan 16 00:36:45 HHHHHHHH _EVENT_ID_: Jan 16 00:36:45.266 CET: %CDP-5-NEIGHBOR_REMOVED: CDP Neighbor HHHHHHHH(JAxxxxxxxJB) on port _INTERFACE_ has been removed
+Jan 16 00:36:45 HHHHHHHH _EVENT_ID_: Jan 16 00:36:45.266 CET: %AUTHPRIV-3-SYSTEM_MSG: pam_aaa:Authentication failed from XXX.XXX.XXX.XXX - sshd[123456]
+Jan 16 00:36:45 HHHHHHHH _EVENT_ID_: Jan 16 00:36:45.266 CET: %AUTHPRIV-3-SYSTEM_MSG: pam_aaa:Authentication failed for user UUUUUUU from XXX.XXX.XXX.XXX - dcos_sshd[23456]
+Jan 16 00:36:45 HHHHHHHH _EVENT_ID_: Jan 16 00:36:45.266 CET: %SSH-5-SSH2_USERAUTH: User 'UUUUUUUU' authentication for SSH2 Session from XXX.XXX.XXX.XXX (tty = 1) using crypto cipher 'aes128-cbc', hmac 'hmac-sha1' Succeeded
+Jan 16 00:36:45 HHHHHHHH _EVENT_ID_: Jan 16 00:36:45.266 CET: %SSH-5-SSH2_USERAUTH: User 'UUUUUUUU' authentication for SSH2 Session from XXX.XXX.XXX.XXX (tty = 3) using crypto cipher 'aes128-cbc', hmac 'hmac-sha1' Failed
+Jan 16 00:36:45 HHHHHHHH _EVENT_ID_: Jan 16 00:36:45.266 CET: %SSH-5-SSH2_USERAUTH: User '' authentication for SSH2 Session from XXX.XXX.XXX.XXX (tty = 0) using crypto cipher 'aes128-cbc', hmac 'hmac-sha1' Failed
+Jan 16 00:36:45 HHHHHHHH _EVENT_ID_: Jan 16 00:36:45.266 CET: %SSH-5-SSH2_CLOSE: SSH2 Session from XXX.XXX.XXX.XXX (tty = 3) for user 'UUUUUUUU' using crypto cipher 'aes128-cbc', hmac 'hmac-sha1' closed
+Jan 16 00:36:45 HHHHHHHH _EVENT_ID_: Jan 16 00:36:45.266 CET: %SSH-5-SSH2_SESSION: SSH2 Session request from XXX.XXX.XXX.XXX (tty = 4) using crypto cipher 'aes128-cbc', hmac 'hmac-sha1' Succeeded
+Jan 16 01:15:20 HHHHHHHH _EVENT_ID_: Jan 16 01:15:20.100 CET: %DHCP_SNOOPING-5-DHCP_SNOOPING_UNTRUSTED_PORT: DHCP_SNOOPING drop message on untrusted port, message type: DHCPOFFER, MAC sa: 0014.60f4.8184
+Jan 16 01:21:59 HHHHHHHH _EVENT_ID_: Jan 16 01:21:59.231 CET: %IP_SOURCE_GUARD-4-DENY_INVALID_PACKET: Detected and dropped illegal traffic on port _INTERFACESHORT_ and _LOGICALINTERFACE_, the non-cumulative packet dropped count is 36.
+Jan 16 03:46:32 HHHHHHHH _EVENT_ID_: Jan 16 03:46:32.305 CET: %SW_DAI-4-DHCP_SNOOPING_DENY: 1 Invalid ARPs (Req) on _INTERFACESHORT_, _LOGICALINTERFACE_.([0001.0001.0001/XXX.XXX.XXX.XXX/0000.0000.0000/0.0.0.0/01:53:21 UTC Fri Jan 16 2019])
+Jan 16 03:46:35 HHHHHHHH _EVENT_ID_: Jan 16 03:46:35.200 CET: %SW_DAI-4-PACKET_RATE_EXCEEDED: 16 packets received in 157 milliseconds on Gi1/0/13.
+Jan 16 03:46:35 HHHHHHHH _EVENT_ID_: Jan 16 03:46:35.201 CET: %PM-4-ERR_DISABLE: arp-inspection error detected on Gi1/0/13, putting Gi1/0/13 in err-disable state
+Jan 16 03:46:36 HHHHHHHH _EVENT_ID_: Jan 16 03:46:36.112 CET: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/0/13, changed state to down
+Jan 16 03:46:37 HHHHHHHH _EVENT_ID_: Jan 16 03:46:37.200 CET: %LINK-3-UPDOWN: Interface GigabitEthernet1/0/13, changed state to down
+Jan 16 03:48:22 HHHHHHHH _EVENT_ID_: Jan 16 03:48:22.200 CET: %PM-4-ERR_DISABLE: psecure-violation error detected on Fa4/4, putting Fa4/4 in err-disable state
+Jan 16 03:48:22 HHHHHHHH _EVENT_ID_: Jan 16 03:48:22.200 CET: %PORT_SECURITY-2-PSECURE_VIOLATION: Security violation occurred, caused by MAC address 0023.339c.e1cf on port FastEthernet4/4
+Jan 16 03:48:22 HHHHHHHH _EVENT_ID_: Jan 16 03:48:22.200 CET: %PORT_SECURITY-2-PSECURE_VIOLATION_VLAN: Security violation occurred on port GigabitEthernet1/0/4 due to MAC address 0051.3bdc.fafe on VLAN 52
+Jan 16 03:48:22 HHHHHHHH _EVENT_ID_: Jan 16 03:48:22.200 CET: %SISF-4-IP_THEFT: IP Theft A=2001::DB8::1 V=100 I=Et0/0 M=0000.0000.0000 New=Et1/0
+Jan 16 03:48:22 HHHHHHHH _EVENT_ID_: Jan 16 03:48:22.200 CET: %SISF-4-MAC_THEFT: MAC Theft A=2001::DB8::1 V=100 I=Et1/0 M=0000.0000.0000 New=Et1/0
+Jan 16 03:48:22 HHHHHHHH _EVENT_ID_: Jan 16 03:48:22.200 CET: %SISF-4-MAC_AND_IP_THEFT: MAC_AND_IP Theft A=2001::DB8::1 V=100 I=Et0/0 M=0000.0000.0000 New=Et1/0
+Jan 16 03:48:22 HHHHHHHH _EVENT_ID_: Jan 16 03:48:22.200 CET: %SISF-4-PAK_DROP: Message dropped A=2001::DB8::1 G=2001:2DB::2 V=2 I=Gi3/0/24 P=DHCPv6::REP Reason=Packet not authorized on port
+Jan 16 03:48:22 HHHHHHHH _EVENT_ID_: Jan 16 03:48:22.200 CET: %SISF-4-PAK_DROP: Message dropped A=2001::DB8:2 G=- V=1 I=Gi3/2 P=NDP::RA Reason=Message unauthorized on port
+Jan 16 04:25:02 HHHHHHHH _EVENT_ID_: Jan 9 14:25:01.625 CET: %PARSER-5-CFGLOG_LOGGEDCMD: User:UUUUUUUU  logged command:monitor session 1 source vlan 16 , 17 , 19
+Jan 16 04:25:02 HHHHHHHH _EVENT_ID_: Jan 9 14:25:01.625 CET: %IP-4-DUPADDR: Duplicate address 192.168.211.1 on FastEthernet0/0, sourced by 0015.f987.941a
+Jan 17 10:49:24 HHHHHHHH _EVENT_ID_: Jan 17 10:49:24.382 CET: %TRACKING-5-STATE: 3 ip sla 3 reachability Up->Down
+Jan 17 10:52:22 HHHHHHHH _EVENT_ID_: Jan 17 10:52:22.382 CET: %TRACKING-5-STATE: 3 ip sla 3 reachability Down->Up
+Jan 17 10:55:24 HHHHHHHH _EVENT_ID_: Jan 17 10:55:24.382 CET: %TRACKING-5-STATE: 10 rtr 100 reachability Down->Up
+Jan 17 10:55:22 HHHHHHHH _EVENT_ID_: Jan 17 10:55:22.382 CET: %TRACKING-5-STATE: 10 rtr 100 reachability Up->Down
+Jan 17 16:07:09 HHHHHHHH _EVENT_ID_: Jan 17 16:07:09.331 CET: %HA_EM-6-LOG: route-table-monitor: Route changed: Type: add, Network: 1.1.1.100, Mask/Prefix: 255.255.255.255, Protocol: OSPF, GW: 10.99.99.5, Intf: N/A
+Jan 17 16:07:09 HHHHHHHH _EVENT_ID_: Jan 17 16:07:09.331 CET: %HA_EM-6-LOG: route-table-monitor: Route changed: Type: remove, Network: 1.1.1.100, Mask/Prefix: 255.255.255.255, Protocol: OSPF, GW: 10.99.99.5, Intf: N/A
+Jan 17 22:07:09 HHHHHHHH _EVENT_ID_: Jan 17 22:07:09.331 CET: %PLATFORM-2-MOD_TEMPMINALRM: Xbar-3 reported minor temperature alarm. Sensor=2 Temperature=43 MinThreshold=42
+Jan 17 22:07:09 HHHHHHHH _EVENT_ID_: Jan 17 22:07:09.331 CET: %PLATFORM-2-MOD_TEMPOK: Xbar-3 recovered from minor temperature alarm. Sensor=2 Temperature=41 MinThreshold=42
